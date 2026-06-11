@@ -8,11 +8,9 @@
 > [!note] 📢
 > Note messages
 
-## Show Image
-
-![alt text](example.png)
-
-## Code block
+**Image**
+![[example.png|250]]
+**Code block**
 ```python
 print("Hello World")
 ```
@@ -29,4 +27,14 @@ Nhúng nội dung bằng dấu "!", ví dụ ![[Sample Note 1]]
 
 # Một số nguồn tài liệu
 https://obsidian.md/help/hotkeys
+
+## Công cụ hỗ trợ synchronize
+- https://syncthing.net/: hỗ trợ sync data qua các thiết bị khác nhau, không thông qua nền tảng cloud nào
+	- Nhược 
+	- Ưu: dễ thao tác cho non-IT
+- Git n Github: 
+	- Nhược:
+	- Ưu: 
+
+## Phím tắt cần biết
 Ctrl + G: mở Graph view
